@@ -71,7 +71,7 @@
 ## 📬 Связаться со мной
 
 ### 🟣 Zerocoder Marketplace
-[https://marketplace.zerocoder.ru/zerocoder/21361](https://marketplace.zerocoder.ru/zerocoder/21361)
+[https://marketplace.zerocoder.ru](https://marketplace.zerocoder.ru/zerocoder/21361)
 
 ### 🔵 Kwork
 [https://kwork.ru](https://kwork.ru/user/gvoronin)

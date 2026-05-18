@@ -77,7 +77,7 @@
 [https://kwork.ru](https://kwork.ru/user/gvoronin)
 
 ### 🟡 Авито
-[https://www.avito.ru/moskva/predlozheniya_uslug/sozdanie_ii-assistentov_i_chat_botov_8068857246](https://www.avito.ru/moskva/predlozheniya_uslug/sozdanie_ii-assistentov_i_chat_botov_8068857246)
+[https://www.avito.ru](https://www.avito.ru/moskva/predlozheniya_uslug/sozdanie_ii-assistentov_i_chat_botov_8068857246)
 
 ---
 

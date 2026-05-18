@@ -74,7 +74,7 @@
 [https://marketplace.zerocoder.ru/zerocoder/21361](https://marketplace.zerocoder.ru/zerocoder/21361)
 
 ### 🔵 Kwork
-[https://kwork.ru/script-programming/51701272](https://kwork.ru/script-programming/51701272/)
+[https://kwork.ru](https://kwork.ru/user/gvoronin)
 
 ### 🟡 Авито
 [https://www.avito.ru/moskva/predlozheniya_uslug/sozdanie_ii-assistentov_i_chat_botov_8068857246](https://www.avito.ru/moskva/predlozheniya_uslug/sozdanie_ii-assistentov_i_chat_botov_8068857246)
